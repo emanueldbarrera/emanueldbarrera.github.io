@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/movefast-test/static/css/main.0027cb4f.chunk.css",
+    "main.js": "/movefast-test/static/js/main.2a0a41df.chunk.js",
+    "main.js.map": "/movefast-test/static/js/main.2a0a41df.chunk.js.map",
+    "runtime-main.js": "/movefast-test/static/js/runtime-main.2771546c.js",
+    "runtime-main.js.map": "/movefast-test/static/js/runtime-main.2771546c.js.map",
+    "static/js/2.414b08c2.chunk.js": "/movefast-test/static/js/2.414b08c2.chunk.js",
+    "static/js/2.414b08c2.chunk.js.map": "/movefast-test/static/js/2.414b08c2.chunk.js.map",
+    "static/js/3.e2801f0e.chunk.js": "/movefast-test/static/js/3.e2801f0e.chunk.js",
+    "static/js/3.e2801f0e.chunk.js.map": "/movefast-test/static/js/3.e2801f0e.chunk.js.map",
+    "index.html": "/movefast-test/index.html",
+    "static/css/main.0027cb4f.chunk.css.map": "/movefast-test/static/css/main.0027cb4f.chunk.css.map",
+    "static/js/2.414b08c2.chunk.js.LICENSE.txt": "/movefast-test/static/js/2.414b08c2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2771546c.js",
+    "static/js/2.414b08c2.chunk.js",
+    "static/css/main.0027cb4f.chunk.css",
+    "static/js/main.2a0a41df.chunk.js"
+  ]
+}
